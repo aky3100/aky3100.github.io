@@ -22,7 +22,7 @@ redirect_from:
 
 
 # 📝 Publications 
-- [REDfold: accurate RNA secondary structure prediction using residual encoder-decoder network], Chun-Chi Chen, Yi-Ming Chan, **BMC Bioinformatics**
+- REDfold: accurate RNA secondary structure prediction using residual encoder-decoder network, Chun-Chi Chen, Yi-Ming Chan, **BMC Bioinformatics**
 
 
 
@@ -31,9 +31,7 @@ redirect_from:
 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2012.09 - 2017.12*, Ph.D. of ECEN, Texas A&M University (TAMU). 
 
 
 # 💻 Internships
