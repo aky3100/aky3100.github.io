@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Aky Academic Homepage"
-description              : "Welcome to visit Aky's homepage"
+description              : "Welcome to Aky's homepage"
 repository               : "aky3100/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
