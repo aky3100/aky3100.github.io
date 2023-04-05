@@ -24,7 +24,7 @@ author:
   name             : "Chun-Chi Chen"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "NCYU"
-  location         : "Taiwan"
+  location         : #"Taiwan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=F6rxCEMAAAAJ"
