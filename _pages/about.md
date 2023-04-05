@@ -22,6 +22,7 @@ redirect_from:
 
 
 # 📝 Publications 
+- [REDfold: accurate RNA secondary structure prediction using residual encoder-decoder network], A, B, C, **BMC Bioinformatics**
 
 
 
